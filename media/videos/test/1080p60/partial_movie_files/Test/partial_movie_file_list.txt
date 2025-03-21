@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/cedricclaessens/Downloads/euler/media/videos/test/1080p60/partial_movie_files/Test/3529212410_2552298112_223132457.mp4'
-file 'file:/Users/cedricclaessens/Downloads/euler/media/videos/test/1080p60/partial_movie_files/Test/3040924799_4217992463_3076569080.mp4'
-file 'file:/Users/cedricclaessens/Downloads/euler/media/videos/test/1080p60/partial_movie_files/Test/3040924799_2994511603_1628077709.mp4'
-file 'file:/Users/cedricclaessens/Downloads/euler/media/videos/test/1080p60/partial_movie_files/Test/3040924799_2844360058_2396311697.mp4'
